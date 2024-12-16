@@ -291,7 +291,7 @@ GEM
     regexp_parser (2.6.1)
     request_store (1.5.1)
       rack (>= 1.4)
-    rexml (3.2.5)
+    rexml (3.3.9)
     rolify (6.0.0)
     rouge (4.0.0)
     rspec-core (3.11.0)
